@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/2022-devfest-react-codejam/static/css/main.3bb28835.css",
+    "main.js": "/2022-devfest-react-codejam/static/js/main.bcbd5cc3.js",
+    "static/js/787.c890882a.chunk.js": "/2022-devfest-react-codejam/static/js/787.c890882a.chunk.js",
+    "static/media/chats.svg": "/2022-devfest-react-codejam/static/media/chats.48a0e35687daaf06ca7567f5768643da.svg",
+    "static/media/control.svg": "/2022-devfest-react-codejam/static/media/control.ad16cbca0e03aec4bcecb590c6cb9745.svg",
+    "static/media/bell.svg": "/2022-devfest-react-codejam/static/media/bell.cb52da81061eee2a019043fd2a7265b8.svg",
+    "static/media/my.svg": "/2022-devfest-react-codejam/static/media/my.39e0153f1d22729b3cd933819db49e6a.svg",
+    "static/media/category.svg": "/2022-devfest-react-codejam/static/media/category.666d3a0f80b3a1b9b6523a3a4ce0e94f.svg",
+    "index.html": "/2022-devfest-react-codejam/index.html",
+    "static/media/search.svg": "/2022-devfest-react-codejam/static/media/search.9929ce732ed24d64bb8740212541542a.svg",
+    "static/media/home.svg": "/2022-devfest-react-codejam/static/media/home.bd5c67243880b2de89912d022e7975b5.svg",
+    "static/media/back.svg": "/2022-devfest-react-codejam/static/media/back.df7a507898d2fe80ba54cbba506bf11f.svg",
+    "static/media/chevron.svg": "/2022-devfest-react-codejam/static/media/chevron.94d456bc0192510ce19c941c85686eff.svg",
+    "static/media/sell.svg": "/2022-devfest-react-codejam/static/media/sell.83a108f99314f0a04f95dc1d7e08b3bd.svg",
+    "main.3bb28835.css.map": "/2022-devfest-react-codejam/static/css/main.3bb28835.css.map",
+    "main.bcbd5cc3.js.map": "/2022-devfest-react-codejam/static/js/main.bcbd5cc3.js.map",
+    "787.c890882a.chunk.js.map": "/2022-devfest-react-codejam/static/js/787.c890882a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb28835.css",
+    "static/js/main.bcbd5cc3.js"
+  ]
+}
