@@ -2,6 +2,7 @@
   "name": "2022-devfest-react-codejam",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://khv2644511.github.io/2022-devfest-react-codejam",
   "dependencies": {
     "@stackflow/core": "^0.16.0",
     "@stackflow/plugin-basic-ui": "^0.16.0",
@@ -56,5 +57,6 @@
     "eslint-plugin-react": "^7.31.11",
     "gh-pages": "^4.0.0",
     "prettier": "^2.7.1"
-  }
+  },
+  "packageManager": "yarn@3.3.0"
 }
